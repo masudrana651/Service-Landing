@@ -1,0 +1,46 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146 39" width="146" height="39">
+	<title>d3-seeklogo</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="-509.023" y1="-972.615" x2="1526.722" y2="1143.62">
+			<stop offset="0" stop-color="#f9a03c"  />
+			<stop offset="100" stop-color="#f7974e"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="-1168.118" y1="-637.625" x2="-224.491" y2="291.904">
+			<stop offset="0" stop-color="#f9a03c"  />
+			<stop offset="100" stop-color="#f7974e"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="-971.151" y1="-638.034" x2="-113.731" y2="292.695">
+			<stop offset="0" stop-color="#f9a03c"  />
+			<stop offset="100" stop-color="#f7974e"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="13775.84" y1="-171.247" x2="21250.608" y2="8658.406">
+			<stop offset="0" stop-color="#f26d58"  />
+			<stop offset="100" stop-color="#f9a03c"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="7045.831" y1="-481.718" x2="13096.048" y2="4220.934">
+			<stop offset="0" stop-color="#b84e51"  />
+			<stop offset="100" stop-color="#f68e48"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="8686.092" y1="347.188" x2="8931.657" y2="2053.716">
+			<stop offset="0" stop-color="#f9a03c"  />
+			<stop offset="100" stop-color="#f7974e"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+		.shp2 { fill: url(#grd3) } 
+		.shp3 { fill: url(#grd4) } 
+		.shp4 { fill: url(#grd5) } 
+		.shp5 { fill: url(#grd6) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M145.73 28.19C145.79 28.01 145.84 27.83 145.88 27.64C145.92 27.43 99.93 15.15 99.93 15.15L98.83 15.15C98.83 15.15 145.44 28.99 145.73 28.19L145.73 28.19L145.73 28.19Z" />
+		<path id="Layer" class="shp1" d="M47.61 23.93C47.54 23.96 47.48 24 47.42 24.04C47.36 24.08 47.29 24.12 47.22 24.16C45.76 25.02 67.75 31.07 69.51 30.33C69.59 30.3 69.68 30.26 69.76 30.23C69.85 30.19 69.93 30.16 70.02 30.12C71.44 29.51 48.23 23.53 47.61 23.93L47.61 23.93L47.61 23.93Z" />
+		<path id="Layer" class="shp2" d="M78.68 32.43C78.62 32.47 78.17 32.68 77.77 32.79C77.7 32.83 99.24 38.84 99.24 38.84L101.17 38.84C101.18 38.84 80.96 32.69 78.68 32.43L78.68 32.43L78.68 32.43Z" />
+		<path id="Layer" fill-rule="evenodd" class="shp3" d="M145.91 27.54C145.87 27.71 145.83 27.88 145.77 28.06L99.23 15.15L91.7 15.15C92.66 16.55 93.17 17.98 93.17 19.45C93.17 20.9 92.67 22.32 91.75 23.69L103.86 23.69C110.34 23.69 115.61 25.17 115.61 27C115.61 28.82 110.34 30.3 103.86 30.3L83.39 30.3C81.85 31.1 80.13 31.86 78.28 32.59L100.81 38.84L103.86 38.84C126.43 38.84 144.9 33.82 145.91 27.54ZM0 0L0 8.54L12.24 8.54C33.63 8.54 51.02 13.44 51.02 19.45C51.02 21.09 49.73 22.64 47.42 24.04L69.76 30.23C77.09 27.14 81.38 23.44 81.38 19.45C81.38 8.73 50.36 0 12.24 0L0 0Z" />
+		<path id="Layer" class="shp4" d="M103.86 0L54.29 0C66.4 2.08 76.42 5.03 83.25 8.54L103.86 8.54C110.34 8.54 115.61 10.02 115.61 11.85C115.61 13.67 110.34 15.15 103.86 15.15L99.23 15.15L145.77 28.06C145.88 27.71 145.95 27.35 145.95 27C145.95 24.12 142.28 21.48 136.19 19.42C142.28 17.37 145.95 14.72 145.95 11.85C145.95 5.31 127.07 0 103.86 0L103.86 0L103.86 0Z" />
+		<path id="Layer" fill-rule="evenodd" class="shp5" d="M100.81 38.84L78.28 32.59C71.97 35.09 63.93 37.23 54.64 38.84L100.81 38.84ZM47.42 24.04C41.25 27.77 27.81 30.37 12.24 30.37L0 30.37L0 38.91L12.24 38.91C36.2 38.91 57.35 35.46 69.76 30.23L47.42 24.04Z" />
+	</g>
+</svg>
